@@ -1,16 +1,17 @@
-## Hi there 👋
+# Lincoln Ledet 👋
 
-<!--
-**LincolnLedet/LincolnLedet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> CS Major | Web Dev | Musician | Plant Enjoyer 🌱
 
-Here are some ideas to get you started:
+### Tech Stack:
+- Languages: Python, JavaScript, Jame, C, C++
+- Web: React, Node.js, SQLite,
+- ML/DS: Pandas, NumPy, Scikit-Learn
+- Tools: VScode, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects:
+- 📰 [The Sensationalist](https://www.the-sensationalist.xyz/)
+- 🎸 BLE Guitar Pedal Visualizer
+- 📈 Stock Sentiment Trading Bot
+
+### Let's connect!
+[LinkedIn](https://www.linkedin.com/in/lincoln-ledet/) | [Personal Site](https://...](https://theycallme.link/)) 
