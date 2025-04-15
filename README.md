@@ -20,6 +20,4 @@
 
 <br>
 
-![Lincoln's GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnledet&show_icons=true&theme=radical)
-
 </div>
