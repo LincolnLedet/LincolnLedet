@@ -2,7 +2,7 @@
 
 # Lincoln Ledet 👋
 
-> CS Major | Web Dev | Musician | Plant Enjoyer 🌱
+ CS Major | Web Dev | Musician | Plant Enjoyer 🌱
 
 ### Tech Stack:
  Languages: Python, JavaScript, Jame, C, C++
