@@ -1,7 +1,7 @@
 <div align="left">
 
-  <div align="Center">
-     ### Lincoln Ledet 
+  <div align="Center" >
+     <h1>Lincoln Ledet</h1>
   </div>
 
 
