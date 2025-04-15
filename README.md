@@ -2,13 +2,14 @@
 
 # Lincoln Ledet 👋
 
-> CS Major | Web Dev | Musician | Plant Enjoyer 🌱
+> CS Major | Web Dev | Mobile Dev | Embedded Systems | Server Management | Cybersecurity Enthusiast | Musician | Plant Enjoyer 🌱
+
 
 ### Tech Stack:
-- Languages: Python, JavaScript, Jame, C, C++
+- Languages: Python, JavaScript, Java, C, C++
 - Web: React, Node.js, SQLite
 - ML/DS: Pandas, NumPy, Scikit-Learn
-- Tools: VScode, Docker
+- Tools: VScode, Docker, Unix
 
 ### Featured Projects:
 - 📰 [The Sensationalist](https://www.the-sensationalist.xyz/)
