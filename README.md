@@ -15,3 +15,6 @@
 
 ### Let's connect!
 [LinkedIn](https://www.linkedin.com/in/lincoln-ledet/) | [Personal Site](https://...](https://theycallme.link/)) 
+
+![Lincoln's GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnledet&show_icons=true&theme=radical)
+
