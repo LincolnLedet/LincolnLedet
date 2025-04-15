@@ -1,6 +1,9 @@
 <div align="left">
 
-# Lincoln Ledet 👋
+  <div align="Center">
+    # Lincoln Ledet 
+  </div>
+
 
 > CS Major | Web Dev | Mobile Dev | Embedded Systems | Server Management | Cybersecurity Enthusiast | Musician | Plant Enjoyer 🌱
 
