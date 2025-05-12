@@ -5,7 +5,7 @@
   </div>
 
 
-> CS Major | Web Dev | Mobile Dev | Embedded Systems | Server Management | Cybersecurity Enthusiast | Musician | Plant Enjoyer 🌱
+> CS Major | Web Dev | Mobile Dev | Embedded Systems | Server Management | Cybersecurity Enthusiast | Musician | Plant Enjoyer 🌱| Cyber Security Professional
 
 
 ### Tech Stack:
