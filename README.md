@@ -9,10 +9,10 @@
 
 
 ### Tech Stack:
-- Languages: Python, JavaScript, Java, C, C++
-- Web: React, Node.js, SQLite
+- Languages: Python, JavaScript, Java, C 
+- Web: React, Node.js, SQLite, Tauri, Nginx
 - ML/DS: Pandas, NumPy, Scikit-Learn
-- Tools: VScode, Docker, Unix
+- Tools: VScode, Docker, Unix, SSH, 
 
 ### Featured Projects:
 - 📰 [The Sensationalist](https://www.the-sensationalist.xyz/)
