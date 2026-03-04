@@ -5,14 +5,14 @@
   </div>
 
 
-> CS Major | Full-Stack Software Engineer | Mobile and Embedded Systems Dev | Server Manager | Cyber Security Professional | Musician | Plant Enjoyer 🌱
+> CS Major | Full-Stack Software Engineer | Server Manager | SEO Professional |Cyber Security Professional | Musician | Plant Enjoyer 🌱
 
 
 ### Tech Stack:
-- Languages: Python, JavaScript, Java, C 
-- Web: React, Node.js, SQLite, Tauri, Nginx
+- Languages: Python, TypeScript, Java, C 
+- Web: React, Node.js, SQLite, Tauri, Nginx, Vercel
 - ML/DS: Pandas, NumPy, Scikit-Learn
-- Tools: VScode, Docker, Unix, SSH, 
+- Tools: VScode, Docker, Unix, SSH, Claude
 
 ### Featured Projects:
 - 📰 [The Sensationalist](https://www.the-sensationalist.xyz/)
