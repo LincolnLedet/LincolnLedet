@@ -5,7 +5,7 @@
   </div>
 
 
-> CS Major | Full-Stack Software Engineer | Server Manager | SEO Professional |Cyber Security Professional | Musician | Plant Enjoyer 🌱
+> Full-Stack Software Engineer | UGA Grad | Web Dev | Security Enthusiasts | Musician | Plant Enjoyer 🌱
 
 
 ### Tech Stack:
@@ -20,7 +20,7 @@
 - 📈 Stock Sentiment Trading Bot
 
 ### Let's connect!
-[LinkedIn](https://www.linkedin.com/in/lincoln-ledet/) | [Personal Site](https://theycallme.link/)
+[LinkedIn](https://www.linkedin.com/in/lincoln-ledet/) | [Personal Site](https://heyim.link/)
 
 <br>
 
