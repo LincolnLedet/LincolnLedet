@@ -5,7 +5,7 @@
   </div>
 
 
-> Full-Stack Software Engineer | UGA Grad | Web Dev | Security Enthusiasts | Musician | Plant Enjoyer 🌱
+> Full-Stack Software Engineer | UGA Grad | Web Dev | Security Enthusiast | Musician | Plant Enjoyer 🌱
 
 
 ### Tech Stack:
